@@ -1,7 +1,19 @@
-p
-{
-background-color:#9999ff;
 
+p {
+    color: #317be1;
+    background-color:#9999ff;
+    font-size:12px;
+    text-decoration:line-through;
+}
+h1{
+    color: #28c528;
+    background-color:#888888;
+    text-transform:uppercase;
+}
+h2
+{
+    background-color:#888888;
+    text-decoration:underline;
 }
 
 a
@@ -10,5 +22,6 @@ a
 }
 body
 {
-background-color:#b3b3ff;
+    background-color:#b3b3ff;
+    font-family: "verdana";
 }
